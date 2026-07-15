@@ -79,9 +79,7 @@ Using Groq. Model openai/gpt-oss-20b
 
 Вы: Есть ли у меня платежи на этой неделе?
 
-======================================================================
 Вопрос: Есть ли у меня платежи на этой неделе?
-======================================================================
 
 Thought: нужно вызвать инструмент, чтобы ответить точно.
 Action: resolve_date_range({'period': 'this_week'})
@@ -92,6 +90,7 @@ Action: get_obligations({'end_date': '2026-07-19', 'start_date': '2026-07-13'})
  Observation: [{"id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1003", "title": "Yandex Plus", "amount": 799, "currency": "RUB", "category": "subscription", "next_payment_date": "2026-07-14", "status": "active"}, {"id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1006", "title": "iCloud+", "amount": 0.99, "currency": "USD", "category": "storage", "next_payment_date": "2026-07-18", "status": "active"}, {"id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1011", "title": "Miro", "amount": 8, "currency": "USD", "category": "productivity", "next_payment_date": "2026-07-15", "status": "paused"}, {"id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1012", "title": "Figma", "amount": 15, "currency": "USD", "category": "design", "next_payment_date": "2026-07-19", "status": "active"}]
 
 Final Answer: Да, у вас есть платежи на этой неделе.
+
 **Три активных платежа**:
 
 | Подписка | Сумма | Валюта | Дата списания |
