@@ -56,9 +56,6 @@ pytest test_tools.py -v
 System prompt явно указывает агенту: «для вопросов "сколько всего" используй 
 `calculate_total_spending`, а не цикл по convert_currency».
 
-Сам ReAct-цикл не реализован вручную — используется
-`langgraph.prebuilt.create_react_agent`, что и рекомендовано в ТЗ.
-
 ## Инструменты агента
 
 **1. `calculate_total_spending(target_currency='RUB', category=None, status='active')`**
