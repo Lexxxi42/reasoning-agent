@@ -240,7 +240,7 @@ def convert_currency(amount: float, from_currency: str, to_currency: str) -> str
 
     if from_currency == "RUB" or to_currency == "RUB":
         try:
-            url = f"https://api.frankfurter.dev/v2/rate/{from_currency}/{to_currency}"
+            url = f"https://api.frankfurter.dev/v2/rate/{from_currency}/{to_currency}" # тк нет конвертации в RUB в эндпоитне из ТЗ
             response = requests.get(url, timeout=5)
             if response.status_code == 200:
                 data = response.json()
