@@ -10,7 +10,7 @@ ReAct-агент на LangChain/LangGraph, который отвечает на 
 
 ```bash
 cp .env.example .env # предварительно вписать свой GROQ_API_KEY в .env
-docker compose up --build
+docker compose run --build --rm agent
 ```
 
 ### Вариант 2 — локально
