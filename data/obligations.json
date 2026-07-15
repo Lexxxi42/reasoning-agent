@@ -1,6 +1,6 @@
 [
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1001",
+    "id": "1",
     "title": "Netflix",
     "amount": 9.99,
     "currency": "USD",
@@ -9,7 +9,7 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1002",
+    "id": "2",
     "title": "Spotify Premium",
     "amount": 12.99,
     "currency": "EUR",
@@ -18,7 +18,7 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1003",
+    "id": "3",
     "title": "Yandex Plus",
     "amount": 799,
     "currency": "RUB",
@@ -27,7 +27,7 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1004",
+    "id": "4",
     "title": "Adobe Creative Cloud",
     "amount": 52.99,
     "currency": "USD",
@@ -36,7 +36,7 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1005",
+    "id": "5",
     "title": "Google One",
     "amount": 1.99,
     "currency": "USD",
@@ -45,7 +45,7 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1006",
+    "id": "6",
     "title": "iCloud+",
     "amount": 0.99,
     "currency": "USD",
@@ -54,7 +54,7 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1007",
+    "id": "7",
     "title": "ChatGPT Plus",
     "amount": 20,
     "currency": "USD",
@@ -63,7 +63,7 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1008",
+    "id": "8",
     "title": "Steam",
     "amount": 19.99,
     "currency": "USD",
@@ -72,7 +72,7 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1009",
+    "id": "9",
     "title": "Notion",
     "amount": 10,
     "currency": "USD",
@@ -81,7 +81,7 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1010",
+    "id": "10",
     "title": "Canva Pro",
     "amount": 14.99,
     "currency": "EUR",
@@ -90,7 +90,7 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1011",
+    "id": "11",
     "title": "Miro",
     "amount": 8,
     "currency": "USD",
@@ -99,7 +99,7 @@
     "status": "paused"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1012",
+    "id": "12",
     "title": "Figma",
     "amount": 15,
     "currency": "USD",
@@ -108,16 +108,16 @@
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1013",
+    "id": "13",
     "title": "Apple Music",
     "amount": 169,
     "currency": "TRY",
     "category": "subscription",
-    "next_payment_date": "2026-07-22",
+    "next_payment_date": "2026-07-02",
     "status": "active"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1014",
+    "id": "14",
     "title": "HBO Max",
     "amount": 7.99,
     "currency": "USD",
@@ -126,7 +126,7 @@
     "status": "cancelled"
   },
   {
-    "id": "1f4d1d1e-0a6d-4b5f-8d9d-4e7a6f0c1015",
+    "id": "15",
     "title": "Dropbox",
     "amount": 11.99,
     "currency": "USD",
